@@ -210,7 +210,7 @@
 												<option value="2"
 												${u.chucVu.maChucVu == 2?"selected='selected'":"" }>Employee</option>
 											<option value="3"
-												${u.chucVu.maChucVu == 2?"selected='selected'":"" }>Staff</option>
+												${u.chucVu.maChucVu == 2?"selected='selected'":"" }>User</option>
 										</frm:select>
 									</div>
 								</div>

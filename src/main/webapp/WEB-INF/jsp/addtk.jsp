@@ -103,7 +103,7 @@
 						<frm:select class="form-control" path="chucVu.maChucVu">
 							<frm:option value="1">Manager</frm:option>
 							<frm:option value="2">Employee</frm:option>
-							<frm:option value="3">Staff</frm:option>
+							<frm:option value="3">User</frm:option>
 						</frm:select>
 					</div>
 				</div>

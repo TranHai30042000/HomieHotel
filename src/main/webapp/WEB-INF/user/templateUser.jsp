@@ -75,6 +75,8 @@
 				</ul>
 				<a href="booking" class="ml-3 book btn btn-secondary btn-style">Book
 					Now</a>
+				<a href="login" class="ml-3 book btn btn-secondary btn-style">Log in</a>
+				<a>${cookie['JSESSIONID'].getValue() != null ? 'nice' : 'none'}</a>
 			</div>
 		</div>
 	</nav>
